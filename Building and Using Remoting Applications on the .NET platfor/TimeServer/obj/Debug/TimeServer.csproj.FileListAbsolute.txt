@@ -1,0 +1,11 @@
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\bin\Debug\TimeServer.exe.config
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\bin\Debug\TimeServer.exe
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\bin\Debug\TimeServer.pdb
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\bin\Debug\CLASS.dll
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\bin\Debug\CLASS.pdb
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.csproj.AssemblyReference.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.csproj.CoreCompileInputs.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.csproj.CopyComplete
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.exe
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\2. Лекция 3 и ПЗ 1 (03.02.2022)\LAB1\TimeServer\obj\Debug\TimeServer.pdb
