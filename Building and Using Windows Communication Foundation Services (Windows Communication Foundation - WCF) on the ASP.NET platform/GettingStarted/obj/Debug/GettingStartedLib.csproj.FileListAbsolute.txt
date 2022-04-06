@@ -1,0 +1,7 @@
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\bin\Debug\GettingStarted.dll.config
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\bin\Debug\GettingStarted.dll
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\obj\Debug\GettingStartedLib.csproj.AssemblyReference.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\obj\Debug\GettingStarted.dll
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStarted\obj\Debug\GettingStarted.pdb

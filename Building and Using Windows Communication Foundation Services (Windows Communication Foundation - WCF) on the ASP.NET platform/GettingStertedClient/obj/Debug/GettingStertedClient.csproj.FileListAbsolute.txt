@@ -1,0 +1,7 @@
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStertedClient.csproj.CoreCompileInputs.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\bin\Debug\GettingStertedClient.exe.config
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\bin\Debug\GettingStertedClient.exe
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\bin\Debug\GettingStertedClient.pdb
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStertedClient.csproj.AssemblyReference.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStertedClient.exe
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStertedClient.pdb

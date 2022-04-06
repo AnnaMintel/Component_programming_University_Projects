@@ -1,0 +1,2 @@
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStartedClient.csproj.AssemblyReference.cache
+C:\Users\annik\Desktop\Технологии компонентного программирования приложений\labs\LAB3\GettingStertedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
